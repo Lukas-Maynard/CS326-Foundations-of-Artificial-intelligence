@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="283b3fc1-5bda-4057-9461-8e0ab8d86fbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CS316 Intro to OS/File Service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CS316 Intro to OS/File Service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CS316 Intro to OS/File Service/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CS316 Intro to OS/File Service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CS316 Intro to OS/File Service/File Service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CS316 Intro to OS/File Service/src/file_service/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CS316 Intro to OS/File Service/src/file_service/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search_solutions/SlidingTileGBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search_solutions/SlidingTileGBFSMisplaced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Search/core_search/BaseSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Search/core_search/BaseSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Search/core_search/Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Search/core_search/Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Search/search_problems/Travel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Search/search_solutions/TravelBFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search_problems/SlidingTilePuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search_problems/SlidingTilePuzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/search_solutions/SlidingTileBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/search_solutions/SlidingTileBFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Search (1)/search_problems/SlidingTilePuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Search (1)/search_problems/SlidingTilePuzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Search (1)/search_solutions/SlidingTileDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Search (1)/search_solutions/SlidingTileDFS.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2b6eo5546WmEUS9ujJ7sDeNWcsv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Travel.executor": "Run",
+    "Application.TravelBFS.executor": "Run",
+    "Application.TravelDFS.executor": "Run",
+    "Application.TravelUCS.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/lukas/Desktop/BSU-Spring-2024-git/CS326 Foundations of Artificial Intelligence/Search (1)/Search",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Travel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search_problems.Travel" />
+      <module name="Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search_solutions.TravelBFS" />
+      <module name="Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search_solutions.TravelDFS" />
+      <module name="Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TravelUCS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search_solutions.TravelUCS" />
+      <module name="Search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search_solutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TravelBFS" />
+        <item itemvalue="Application.TravelUCS" />
+        <item itemvalue="Application.TravelDFS" />
+        <item itemvalue="Application.Travel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="283b3fc1-5bda-4057-9461-8e0ab8d86fbc" name="Changes" comment="" />
+      <created>1705540127836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705540127836</updated>
+    </task>
+    <servers />
+  </component>
+</project>
